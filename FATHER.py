@@ -1,22 +1,22 @@
 # coding: utf-8
 
-# Decompiled By Dare SAHIL-BRO-ZAIN
+# Decompiled By  SAHIL-BRO-ZAIN
 
 # Youtube : https://youtu.be/dkRKY6J-CgY
 
 # uncompyle6 version 
 
-# Original written By Ali Abbas
+# Original written By SAHIL-BRO-ZAIN
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 
-__author__ = 'Ali'
+__author__ = 'SAHIL'
 
-__copyright = 'All rights reserved . Copyright  Abdul Mateen'
+__copyright = 'SAHIL rights reserved . Copyright  Abdul Mateen'
 
 CorrectUsername = 'HATERS KA ABU'
 
-CorrectPassword = 'Zain'
+CorrectPassword = 'HATERS KA ABU'
 
 os.system('clear')
 
@@ -24,11 +24,11 @@ loop = 'true'
 
 while (loop == 'true'):
 
-    username = raw_input('\033[1;91mENTER TOOL KEY…………=>> :\033[1;93m ')
+    username = raw_input('\033[1;91mENTER TOOL KEY…………=>> :\033[1;94m ')
 
     if (username == CorrectUsername):
 
-            print '\033[1;92m Logged in successfully as '
+            print '\033[1;93m Logged in successfully HATERS JALNA NHI HATERS KA BAP SAHIL '
 
             time.sleep(1)
             
@@ -98,7 +98,7 @@ br.addheaders = [('user-agent', 'Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Bui
 
 def exb():
 
-    print '[!] Exit Successfully '
+    print '[!] Exit Successfully THANK YU😍❤ '
 
     os.sys.exit()
 
@@ -164,13 +164,13 @@ logo = """
  \033[1;33m╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
  ______________________________________________
 
- Author   :            SAHIL-BRO-ZAIN
+ Author   :          SAHIL-BRO-ZAIN
 
- Facebook :          Mr Zain
+ Facebook :          MALANG YAR
 
- GitHub   :        SAHIL-BRO-ZAIN.git 
+ GitHub   :          SAHIL-BRO-ZAIN.git 
 
- Version  :              0.2
+ SELF     :          BAP KE MUHALE ME A KAR BAP KI PEHCHAN NHI POUCHTE  
 
  ______________________________________________
 
@@ -264,7 +264,7 @@ def action():
 
     else:
 
-        print '[!] Fill In Correctly'
+        print '[!] Fill It Correctly'
 
         action()
 
@@ -316,7 +316,7 @@ def action():
 
             elif 'www.facebook.com' in q['error_msg']:
 
-                print '\x1b[1;91m  [Sucessfull-SAHIL-BRO-ZAIN] ' + k + c + user + '  |  ' + pass1
+                print '\x1b[1;91m  [CHECKPOINT-SAHIL-BRO-ZAIN] ' + k + c + user + '  |  ' + pass1
 
                 cps = open('save/CP.txt', 'a')
 
@@ -348,7 +348,7 @@ def action():
 
                 elif 'www.facebook.com' in q['error_msg']:
 
-                    print '\x1b[1;92m  [Sucessfull-SAHIL-BRO-ZAIN] ' + k + c + user + '  |  ' + pass2
+                    print '\x1b[1;92m  [CHECKPOINT-SAHIL-BRO-ZAIN] ' + k + c + user + '  |  ' + pass2
 
                     cps = open('save/CP.txt', 'a')
 
@@ -368,7 +368,7 @@ def action():
 
                     if 'access_token' in q:
 
-                        print '\x1b[1;92m  [Sucessfull-SAHIL-BRO-ZAIN]  ' + k + c + user + '  |  ' + pass3
+                        print '\x1b[1;92m  [CHECKPOINT-SAHIL-BRO-ZAIN]  ' + k + c + user + '  |  ' + pass3
 
                         okb = open('save/CP.txt', 'a')
 
@@ -380,7 +380,7 @@ def action():
 
                     elif 'www.facebook.com' in q['error_msg']:
 
-                        print '\x1b[1;92m  [Sucessfull-SAHIL-BRO-ZAIN] ' + k + c + user + '  |  ' + pass3
+                        print '\x1b[1;92m  [CHECKPOINT-SAHIL-BRO-ZAIN] ' + k + c + user + '  |  ' + pass3
 
                         cps = open('save/CP.txt', 'a')
 
@@ -412,7 +412,7 @@ def action():
 
     print 'Cloned Accounts Has Been Saved : save/cloned.txt'
 
-    jalan('Note : Cp Account  10 Sy 12 Dayys BAD OPEN KRY ND  OK 3 DAYS BD')
+    jalan('Note : CP ACCOUNTS OPEN AFTER 7 DAYS FACT:- 50% CP ACCOUNT OPENED JUST NOW')
 
     raw_input('\n\x1b[1;95m[\x1b[1;98mMetoo_menu_Back\x1b[1;95m]')
 
